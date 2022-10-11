@@ -1,2 +1,2 @@
 # Website-for-a-bakery
-In simple HTML and CSS with built-in google map 
+In native HTML and CSS with built-in google map 
