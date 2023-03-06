@@ -1,3 +1,16 @@
 # Website-for-a-bakery
-A simple website for a bakery 
-In native HTML and CSS with built-in google map 
+### One-page website for a bakery
+---
+### Launch site :
+- 1 Method : Go to the site : https://vadimbagrov.github.io/Website-for-a-bakery/ .
+
+- 2 Method : Copy yourself a repository , run the Live server extension or install packages with the npm init command and run my pre-built gulp (this will open the site).
+
+---
+### Technologies used :
+
+- HTML. 
+ 
+- SCSS. 
+
+- BEM modules.
